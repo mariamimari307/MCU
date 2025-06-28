@@ -1,0 +1,34 @@
+Movie Title,Release Date (USA),Phase,Genre,Movie Rating,Lead Role,Runtime (min),Production Budget,Box Office (Local),Box Office (International),Total Box Office Earnings,Rotten Tomatoes Ratings (%),IMDb Ratings
+Captain America: The First Avenger,22-Jul-2011,1,Action | Adventure | Sci-Fi,PG-13,Male,124,"$140,000,000.00 ","$176,654,505.00 ","$193,915,269.00 ","$370,569,774.00 ",80,6.9
+Captain Marvel,8-Mar-2019,3,Action | Adventure | Sci-Fi,PG-13,Female,125,"$160,000,000.00 ","$426,829,839.00 ","$704,586,607.00 ","$1,131,416,446.00 ",79,6.8
+Iron Man,2-May-2008,1,Action | Adventure | Sci-Fi,PG-13,Male,126,"$140,000,000.00 ","$319,034,126.00 ","$266,762,121.00 ","$585,796,247.00 ",94,7.9
+Iron Man 2,7-May-2010,1,Action | Sci-Fi,PG-13,Male,124,"$200,000,000.00 ","$312,433,331.00 ","$311,500,000.00 ","$623,933,331.00 ",72,6.9
+The Incredible Hulk,13-Jun-2008,1,Action | Adventure | Sci-Fi,PG-13,Male,112,"$150,000,000.00 ","$134,806,913.00 ","$129,964,083.00 ","$264,770,996.00 ",67,6.6
+Thor,6-May-2011,1,Action | Fantasy,PG-13,Male,115,"$150,000,000.00 ","$181,030,624.00 ","$268,295,994.00 ","$449,326,618.00 ",77,7
+The Avengers,4-May-2012,1,Action | Sci-Fi,PG-13,Male,143,"$220,000,000.00 ","$623,357,910.00 ","$897,180,626.00 ","$1,520,538,536.00 ",91,8
+Thor: The Dark World,8-Nov-2013,2,Action | Adventure | Fantasy,PG-13,Male,112,"$170,000,000.00 ","$206,362,140.00 ","$438,421,000.00 ","$644,783,140.00 ",67,6.8
+Iron Man 3,3-May-2013,2,Action | Adventure | Sci-Fi,PG-13,Male,130,"$200,000,000.00 ","$409,013,994.00 ","$806,563,211.00 ","$1,215,577,205.00 ",79,7.1
+Captain America: The Winter Soldier,4-Apr-2014,2,Action | Adventure | Sci-Fi,PG-13,Male,136,"$170,000,000.00 ","$259,766,572.00 ","$454,654,931.00 ","$714,421,503.00 ",90,7.7
+Guardians of the Galaxy,1-Aug-2014,2,Action | Fantasy,PG-13,Male,122,"$170,000,000.00 ","$333,718,600.00 ","$439,631,547.00 ","$773,350,147.00 ",92,8
+Guardians of the Galaxy Vol.2,5-May-2017,3,Action | Sci-Fi,PG-13,Male,136,"$200,000,000.00 ","$389,813,101.00 ","$473,942,950.00 ","$863,756,051.00 ",85,7.6
+Avengers: Age of Ultron,1-May-2015,2,Action | Sci-Fi,PG-13,Male,141,"$365,000,000.00 ","$459,005,868.00 ","$946,012,180.00 ","$1,405,018,048.00 ",76,7.3
+Ant-Man,17-Jul-2015,2,Action | Comedy,PG-13,Male,117,"$130,000,000.00 ","$180,202,163.00 ","$339,109,802.00 ","$519,311,965.00 ",83,7.2
+Captain America: Civil War,6-May-2016,3,Action | Adventure,PG-13,Male,147,"$250,000,000.00 ","$408,084,349.00 ","$746,962,067.00 ","$1,155,046,416.00 ",90,7.8
+Black Widow,9-Jul-2021,4,Action | Adventure,PG-13,Female,134,"$288,500,000.00 ","$183,651,655.00 ","$196,100,000.00 ","$379,751,655.00 ",79,6.7
+Spider-Man: Homecoming,7-Jul-2017,3,Action | Fantasy,PG-13,Male,133,"$175,000,000.00 ","$334,201,140.00 ","$545,965,784.00 ","$880,166,924.00 ",92,7.4
+Black Panther,16-Feb-2018,3,Action | Sci-Fi,PG-13,Male,134,"$200,000,000.00 ","$700,426,566.00 ","$649,499,517.00 ","$1,349,926,083.00 ",96,7.3
+Doctor Strange,4-Nov-2016,3,Action | Fantasy,PG-13,Male,115,"$165,000,000.00 ","$232,641,920.00 ","$445,154,156.00 ","$677,796,076.00 ",89,7.5
+Thor: Ragnarok,3-Nov-2017,3,Action | Sci-Fi,PG-13,Male,130,"$180,000,000.00 ","$315,058,289.00 ","$540,243,517.00 ","$855,301,806.00 ",93,7.9
+Ant-Man and the Wasp,6-Jul-2018,3,Action | Adventure,PG-13,Female,118,"$162,000,000.00 ","$216,648,740.00 ","$406,025,399.00 ","$622,674,139.00 ",87,7
+Avengers: Infinity War,27-Apr-2018,3,Action | Sci-Fi,PG-13,Male,149,"$316,000,000.00 ","$678,815,482.00 ","$1,373,599,557.00 ","$2,052,415,039.00 ",85,8.4
+Avengers: Endgame,26-Apr-2019,3,Action | Sci-Fi,PG-13,Male,181,"$356,000,000.00 ","$858,373,000.00 ","$1,941,066,100.00 ","$2,799,439,100.00 ",94,8.4
+Spider-Man: Far From Home,2-Jul-2019,3,Action | Sci-Fi,PG-13,Male,129,"$160,000,000.00 ","$390,532,085.00 ","$741,395,911.00 ","$1,131,927,996.00 ",90,7.4
+Shang-Chi and the Legend of the Ten Rings,3-Sep-2021,4,Action | Adventure,PG-13,Male,132,"$150,000,000.00 ","$224,543,292.00 ","$207,700,000.00 ","$432,243,292.00 ",92,7.4
+Eternals,5-Nov-2021,4,Action | Fantasy,PG-13,Female,156,"$236,200,000.00 ","$164,870,234.00 ","$237,194,665.00 ","$402,064,899.00 ",47,6.3
+Spider-Man: No Way Home,17-Dec-2021,4,Action | Sci-Fi,PG-13,Male,148,"$200,000,000.00 ","$814,115,070.00 ","$1,107,732,041.00 ","$1,921,847,111.00 ",93,8.2
+Doctor Strange in the Multiverse of Madness,6-May-2022,4,Fantasy | Horror,PG-13,Male,126,"$294,500,000.00 ","$411,331,607.00 ","$544,444,197.00 ","$955,775,804.00 ",73,6.9
+Thor: Love and Thunder,8-Jul-2022,4,Action | Adventure,PG-13,Male,119,"$250,000,000.00 ","$343,256,830.00 ","$417,671,251.00 ","$760,928,081.00 ",63,6.2
+Black Panther: Wakanda Forever,11-Nov-2022,4,Action | Sci-Fi,PG-13,Female,161,"$200,000,000.00 ","$453,829,060.00 ","$405,379,776.00 ","$859,208,836.00 ",83,6.7
+Ant-Man and the Wasp: Quantumania,17-Feb-2023,5,Action | Adventure,PG-13,Male,124,"$200,000,000.00 ","$214,504,909.00 ","$261,566,271.00 ","$476,071,180.00 ",46,6.1
+Guardians of the Galaxy Vol.3,5-May-2023,5,Action | Adventure,PG-13,Male,150,"$250,000,000.00 ","$358,995,815.00 ","$486,559,962.00 ","$845,555,777.00 ",82,7.9
+The Marvels,45240,5,Action | Adventure,PG-13,Female,105,270000000,84500223,121589412,206089635,62,5.6
